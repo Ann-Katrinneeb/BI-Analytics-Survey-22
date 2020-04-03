@@ -1,0 +1,284 @@
+﻿id,answer
+105,Less than 25
+105,25 - 75
+105,76 - 300
+105,More than 300
+106,Less than 25
+106,25 - 75
+106,76 - 300
+106,More than 300
+107,Less than 50
+107,51-100
+107,101 - 250
+107,251 - 500
+107,501 - 1000
+107,1001 – 2500
+107,2501 – 10000
+107,10001 -  100000
+107,More than 100000
+108,1 to less than 5%
+108,5 to less than 10%
+108,10 to less than 15%
+108,15 to less than 20%
+108,20 to less than 30%
+108,30 to less than 40%
+108,40 to less than 50%
+108,50 to less than 75%
+108,More than 75%
+304,Yes
+304,No
+241,Very good
+241,Good
+241,Average
+241,Poor
+241,Very Poor
+242,Very good
+242,Good
+242,Average
+242,Poor
+242,Very Poor
+240,Very good
+240,Good
+240,Average
+240,Poor
+240,Very Poor
+237,Very good
+237,Good
+237,Average
+237,Poor
+237,Very Poor
+239,Very good
+239,Good
+239,Average
+239,Poor
+239,Very Poor
+238,Very good
+238,Good
+238,Average
+238,Poor
+238,Very Poor
+116,Good
+116,Moderate
+116,Poor
+118,Good
+118,Moderate
+118,Poor
+119,Good
+119,Moderate
+119,Poor
+120,Good
+120,Moderate
+120,Poor
+121,Good
+121,Moderate
+121,Poor
+117,Less than 1 month
+117,1 to less than 3 months
+117,3 to less than 6 months
+117,6 to less than 12 months
+117,1 to less than 2 years
+117,2 to less than 3 years
+117,3 years or more
+123,50 MB or less
+123,50 to less than 500 MB
+123,500 MB to less than 1 GB
+123,1 to less than 5 GB
+123,5 to less than 10 GB
+123,10 to less than 50 GB
+123,50 to less than 100 GB
+123,100 to less than 250 GB
+123,250 to less than 500 GB
+123,500 GB to less than 1 TB
+123,1 to less than 5 TB
+123,5 to less than 10 TB
+123,10 to less than 100 TB
+123,100 to less than 500 TB
+123,More than 500 TB
+122,Before 2010
+122,2010
+122,2011
+122,2012
+122,2013
+122,2014
+122,2015
+122,2016
+122,2017
+122,2018
+122,2019
+128,Excellent
+128,Good
+128,Satisfactory
+128,Not very good
+128,Very poor
+129,Less than 1 second
+129,1 to less than 5 seconds
+129,5 to less than 10 seconds
+129,10 to less than 30 seconds
+129,30 to less than 60 seconds
+129,1 to less than 5 minutes
+129,5 to less than 10 minutes
+129,10 to less than 30 minutes
+129,30 minutes or more
+130,Definitely
+130,Probably
+130,Maybe
+130,Probably not
+130,Definitely not
+133,Excellent
+133,Good
+133,Satisfactory
+133,Not very good
+133,Very poor
+133,None used so far
+134,Excellent
+134,Good
+134,Satisfactory
+134,Not very good
+134,Very poor
+134,None used so far
+137,In use
+137,Planned to use within 12 months
+137,Planned in the long term
+137,Not required/product does not support this
+138,In use
+138,Planned to use within 12 months
+138,Planned in the long term
+138,Not required/product does not support this
+139,In use
+139,Planned to use within 12 months
+139,Planned in the long term
+139,Not required/product does not support this
+140,In use
+140,Planned to use within 12 months
+140,Planned in the long term
+140,Not required/product does not support this
+141,In use
+141,Planned to use within 12 months
+141,Planned in the long term
+141,Not required/product does not support this
+142,In use
+142,Planned to use within 12 months
+142,Planned in the long term
+142,Not required/product does not support this
+143,In use
+143,Planned to use within 12 months
+143,Planned in the long term
+143,Not required/product does not support this
+171,Excellent
+171,Good
+171,Satisfactory
+171,Poor
+171,Very poor
+171,Not used/not available
+172,Excellent
+172,Good
+172,Satisfactory
+172,Poor
+172,Very poor
+172,Not used/not available
+173,Excellent
+173,Good
+173,Satisfactory
+173,Poor
+173,Very poor
+173,Not used/not available
+174,Excellent
+174,Good
+174,Satisfactory
+174,Poor
+174,Very poor
+174,Not used/not available
+175,Excellent
+175,Good
+175,Satisfactory
+175,Poor
+175,Very poor
+175,Not used/not available
+144,High
+144,Moderate
+144,Low
+144,Not achieved
+145,High
+145,Moderate
+145,Low
+145,Not achieved
+146,High
+146,Moderate
+146,Low
+146,Not achieved
+147,High
+147,Moderate
+147,Low
+147,Not achieved
+148,High
+148,Moderate
+148,Low
+148,Not achieved
+149,High
+149,Moderate
+149,Low
+149,Not achieved
+150,High
+150,Moderate
+150,Low
+150,Not achieved
+151,High
+151,Moderate
+151,Low
+151,Not achieved
+152,High
+152,Moderate
+152,Low
+152,Not achieved
+153,High
+153,Moderate
+153,Low
+153,Not achieved
+154,High
+154,Moderate
+154,Low
+154,Not achieved
+155,In use
+155,Planned within 12 months
+155,Planned in the long term
+155,Not required
+156,In use
+156,Planned within 12 months
+156,Planned in the long term
+156,Not required
+157,In use
+157,Planned within 12 months
+157,Planned in the long term
+157,Not required
+158,In use
+158,Planned within 12 months
+158,Planned in the long term
+158,Not required
+159,In use
+159,Planned within 12 months
+159,Planned in the long term
+159,Not required
+160,In use
+160,Planned within 12 months
+160,Planned in the long term
+160,Not required
+161,In use
+161,Planned within 12 months
+161,Planned in the long term
+161,Not required
+162,In use
+162,Planned within 12 months
+162,Planned in the long term
+162,Not required
+163,In use
+163,Planned within 12 months
+163,Planned in the long term
+163,Not required
+164,In use
+164,Planned within 12 months
+164,Planned in the long term
+164,Not required
+165,In use
+165,Planned within 12 months
+165,Planned in the long term
+165,Not required

@@ -1,5 +1,4 @@
 ﻿qValue,qlong
-,
 101,Country
 102,Which department do you work in?
 110,European regions
@@ -23,12 +22,11 @@
 237,How would you rate your experience with the vendor when evaluating the product and during contract negotiation?
 239,How would you rate the vendor's ability to understand your organization's needs?
 238,How timely and thorough were the vendor's responses to product-related and technical questions you had?
-116,How do you rate the level of administrator satisfaction with the implementation of technical aspects of your project?
+116,How do you rate the level of administrator satisfaction with the implementation?
 117,How long did it take to implement the BI software?
 118,How do you rate the level of completion within the budget originally specified?
 119,How do you rate the level of completion within the timeframe originally specified?
-120,How do you rate the level of user satisfaction with the implementation of business aspects of your project?
-121,How do you rate the level of user satisfaction with the implementation of technical aspects of your project?
+120,How do you rate the level of user satisfaction with the implementation of your project?
 122,When did your company start using the product?
 123,What is the amount of data used with your product?
 124,Please indicate the front-end products you use with IBM Cognos TM1?
@@ -54,6 +52,7 @@
 173,How would you rate the capabilities of your BI product for performing analyses?
 174,How would you rate the capabilities of your BI product for planning and budgeting?
 175,How would you rate the capabilities of your BI product for the support of ad hoc queries?
+176,How would you rate the capabilities of your BI product for AI-based user support?
 144,"To what extent has the accuracy of your reporting, analysis or planning improved?"
 145,To what extent do you now make better business decisions through better analysis?
 146,To what extent has your competitive advantage increased?
@@ -74,5 +73,5 @@
 162,Does your company use self-service BI with your BI tool?
 163,Does your company use your BI tool for spatial/location analysis?
 164,Does your company use your BI tool for visual analysis?
-165,Does your company use your BI tool for voice input/natural language interaction?
+165,Does your company use your BI tool for visual design standards?
 168,In which BI use cases is your company investing in?

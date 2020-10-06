@@ -4,7 +4,7 @@ import data3 from './data/all_new.csv';
 export function initProdKPI() {
 
   var product = "Bissantz";
-  var yLegend = 325;
+  var yLegend = 240;
   var tranx = -135;
   var tranx2 = 92;
   var tranx3 = 112;
@@ -23,7 +23,7 @@ export function initProdKPI() {
     peerSelectDataUp, prodSelectDataUp, productSelect, peerSelectUp;
   var legend = {
     left: -70,
-    top: 20
+    top: 50
   };
   var countRank = 0;
 
@@ -379,11 +379,11 @@ export function initProdKPI() {
       if (d.Product == product) {
         if (d.Rank == 1) {
           return "#42b648";
-        } else if ((d.Rank-1) / (d.counter-1) <= 0.3) {
+        } else if ((d.Rank - 1) / (d.counter - 1) <= 0.3) {
           return "#adc537";
         } else if (d.Rank / d.counter == 1) {
           return "#f2686f";
-        } else if ((d.Rank-1) / (d.counter-1) > 0.7) {
+        } else if ((d.Rank - 1) / (d.counter - 1) > 0.7) {
           return "#f79154";
         } else {
           return "#ffbf00";
@@ -530,11 +530,11 @@ export function initProdKPI() {
           if (d.Product == updateProduct) {
             if (d.Rank == 1) {
               return "#42b648";
-            } else if ((d.Rank-1) / (d.counter-1) <= 0.3) {
+            } else if ((d.Rank - 1) / (d.counter - 1) <= 0.3) {
               return "#adc537";
             } else if (d.Rank / d.counter == 1) {
               return "#f2686f";
-            } else if ((d.Rank-1) / (d.counter-1) > 0.7) {
+            } else if ((d.Rank - 1) / (d.counter - 1) > 0.7) {
               return "#f79154";
             } else {
               return "#ffbf00";
@@ -791,11 +791,11 @@ export function initProdKPI() {
           if (d.Product == productDummy) {
             if (d.Rank == 1) {
               return "#42b648";
-            } else if ((d.Rank-1) / (d.counter-1) <= 0.3) {
+            } else if ((d.Rank - 1) / (d.counter - 1) <= 0.3) {
               return "#adc537";
             } else if (d.Rank / d.counter == 1) {
               return "#f2686f";
-            } else if ((d.Rank-1) / (d.counter-1) > 0.7) {
+            } else if ((d.Rank - 1) / (d.counter - 1) > 0.7) {
               return "#f79154";
             } else {
               return "#ffbf00";
@@ -852,15 +852,16 @@ export function initProdKPI() {
 
   // KPI Group 1 Lines
 
+
   var count5 = 0;
-  var LineGroupBegin5 = 28;
+  var LineGroupBegin5 = 27;
 
   svg3.append("line")
     .attr("class", "head")
     .attr("x1", -xLine)
     .attr("y1", LineGroupBegin5)
     .attr("x2", -xLine)
-    .attr("y2", LineGroupBegin5 + 10 + (2 * SpaceLine))
+    .attr("y2", LineGroupBegin5 + 11 + (2 * SpaceLine))
     .attr("stroke", "white")
     .attr("stroke-width", "1");
 
@@ -869,9 +870,9 @@ export function initProdKPI() {
     svg3.append("line")
       .attr("class", "head")
       .attr("x1", -xLine)
-      .attr("y1", LineGroupBegin5 + 10 + (SpaceLine * count5))
+      .attr("y1", LineGroupBegin5 + 11 + (SpaceLine * count5))
       .attr("x2", -xLine2)
-      .attr("y2", LineGroupBegin5 + 10 + (SpaceLine * count5))
+      .attr("y2", LineGroupBegin5 + 11 + (SpaceLine * count5))
       .attr("stroke", "white")
       .attr("stroke-width", "1");
   }
@@ -906,14 +907,14 @@ export function initProdKPI() {
   // KPI Group 3 Lines
 
   var count1 = 0;
-  var LineGroupBegin2 = 250;
+  var LineGroupBegin2 = 253;
 
   svg3.append("line")
     .attr("class", "head")
     .attr("x1", -xLine)
     .attr("y1", LineGroupBegin2)
     .attr("x2", -xLine)
-    .attr("y2", LineGroupBegin2 + 10 + (5 * SpaceLine))
+    .attr("y2", LineGroupBegin2 + 11 + (5 * SpaceLine))
     .attr("stroke", "white")
     .attr("stroke-width", "1");
 
@@ -922,9 +923,9 @@ export function initProdKPI() {
     svg3.append("line")
       .attr("class", "head")
       .attr("x1", -xLine)
-      .attr("y1", LineGroupBegin2 + 10 + (SpaceLine * count1))
+      .attr("y1", LineGroupBegin2 + 11 + (SpaceLine * count1))
       .attr("x2", -xLine2)
-      .attr("y2", LineGroupBegin2 + 10 + (SpaceLine * count1))
+      .attr("y2", LineGroupBegin2 + 11 + (SpaceLine * count1))
       .attr("stroke", "white")
       .attr("stroke-width", "1");
   }
@@ -933,25 +934,26 @@ export function initProdKPI() {
   // KPI Group 4 Lines
 
   var count2 = 0;
-  var LineGroupBegin3 = 410;
+  var LineGroupBegin3 = 770;
+
 
   svg3.append("line")
     .attr("class", "head")
     .attr("x1", -xLine)
     .attr("y1", LineGroupBegin3)
     .attr("x2", -xLine)
-    .attr("y2", LineGroupBegin3 + 10 + (6 * SpaceLine))
+    .attr("y2", LineGroupBegin3 + 11 + (1 * SpaceLine))
     .attr("stroke", "white")
     .attr("stroke-width", "1");
 
-  for (count2 = 0; count2 < 7; count2++) {
+  for (count2 = 0; count2 < 2; count2++) {
 
     svg3.append("line")
       .attr("class", "head")
       .attr("x1", -xLine)
-      .attr("y1", LineGroupBegin3 + 10 + (SpaceLine * count2))
+      .attr("y1", LineGroupBegin3 + 11 + (SpaceLine * count2))
       .attr("x2", -xLine2)
-      .attr("y2", LineGroupBegin3 + 10 + (SpaceLine * count2))
+      .attr("y2", LineGroupBegin3 + 11 + (SpaceLine * count2))
       .attr("stroke", "white")
       .attr("stroke-width", "1");
   }
@@ -960,25 +962,25 @@ export function initProdKPI() {
   // KPI Group 5 Lines
 
   var count3 = 0;
-  var LineGroupBegin4 = 590;
+  var LineGroupBegin4 = 410;
 
   svg3.append("line")
     .attr("class", "head")
     .attr("x1", -xLine)
     .attr("y1", LineGroupBegin4)
     .attr("x2", -xLine)
-    .attr("y2", LineGroupBegin4 + 10 + (1 * SpaceLine))
+    .attr("y2", LineGroupBegin4 + 11 + (5 * SpaceLine))
     .attr("stroke", "white")
     .attr("stroke-width", "1");
 
-  for (count3 = 0; count3 < 2; count3++) {
+  for (count3 = 0; count3 < 6; count3++) {
 
     svg3.append("line")
       .attr("class", "head")
       .attr("x1", -xLine)
-      .attr("y1", LineGroupBegin4 + 10 + (SpaceLine * count3))
+      .attr("y1", LineGroupBegin4 + 11 + (SpaceLine * count3))
       .attr("x2", -xLine2)
-      .attr("y2", LineGroupBegin4 + 10 + (SpaceLine * count3))
+      .attr("y2", LineGroupBegin4 + 11 + (SpaceLine * count3))
       .attr("stroke", "white")
       .attr("stroke-width", "1");
   }
@@ -986,26 +988,26 @@ export function initProdKPI() {
 
   // KPI Group 6 Lines
 
-  var count6 = 0;
-  var LineGroupBegin6 = 655;
+  var count4 = 0;
+  var LineGroupBegin6 = 567;
 
   svg3.append("line")
     .attr("class", "head")
     .attr("x1", -xLine)
     .attr("y1", LineGroupBegin6)
     .attr("x2", -xLine)
-    .attr("y2", LineGroupBegin6 + 10 + (4 * SpaceLine))
+    .attr("y2", LineGroupBegin6 + 11 + (7 * SpaceLine))
     .attr("stroke", "white")
     .attr("stroke-width", "1");
 
-  for (count6 = 0; count6 < 5; count6++) {
+  for (count4 = 0; count4 < 8; count4++) {
 
-    svg3.append("line")
-      .attr("class", "head")
-      .attr("x1", -xLine)
-      .attr("y1", LineGroupBegin6 + 10 + (SpaceLine * count6))
-      .attr("x2", -xLine2)
-      .attr("y2", LineGroupBegin6 + 10 + (SpaceLine * count6))
+      svg3.append("line")
+        .attr("class", "head")
+        .attr("x1", -xLine)
+        .attr("y1", LineGroupBegin6 + 11 + (SpaceLine * count4))
+        .attr("x2", -xLine2)
+        .attr("y2", LineGroupBegin6 + 11 + (SpaceLine * count4))
       .attr("stroke", "white")
       .attr("stroke-width", "1");
   }
@@ -1021,65 +1023,65 @@ export function initProdKPI() {
 
   LegTrans.append("rect")
     .attr("x", -127)
-    .attr("y", 461 + yLegend)
+    .attr("y", 551 + yLegend)
     .attr("width", 10)
     .attr("height", 10)
     .style("fill", "#f2686f");
 
   LegTrans.append("text")
     .attr("x", -150)
-    .attr("y", 487 + yLegend)
+    .attr("y", 577 + yLegend)
     .style("font-style", "italic")
     .style("font-size", 10)
     .text("Last ranked ")
     .append("tspan")
     .attr("x", -146)
-    .attr("y", 499 + yLegend)
+    .attr("y", 589 + yLegend)
     .text("product in ")
     .append("tspan")
     .attr("x", -149)
-    .attr("y", 511 + yLegend)
+    .attr("y", 601 + yLegend)
     .text("peer group");
 
   LegTrans.append("text")
     .attr("x", -60)
-    .attr("y", 487 + yLegend)
+    .attr("y", 577 + yLegend)
     .style("font-style", "italic")
     .style("font-size", 10)
     .text("Best ranked ")
     .append("tspan")
     .attr("x", -56)
-    .attr("y", 499 + yLegend)
+    .attr("y", 589 + yLegend)
     .text("product in ")
     .append("tspan")
     .attr("x", -58)
-    .attr("y", 511 + yLegend)
+    .attr("y", 601 + yLegend)
     .text("peer group");
 
   LegTrans.append("rect")
     .attr("x", -105)
-    .attr("y", 461 + yLegend)
+    .attr("y", 551 + yLegend)
     .attr("width", 10)
     .attr("height", 10)
     .style("fill", "#f79154");
 
   LegTrans.append("rect")
     .attr("x", -83)
-    .attr("y", 461 + yLegend)
+    .attr("y", 551 + yLegend)
     .attr("width", 10)
     .attr("height", 10)
     .style("fill", "#ffbf00");
 
   LegTrans.append("rect")
     .attr("x", -61)
-    .attr("y", 461 + yLegend)
+    .attr("y", 551 + yLegend)
     .attr("width", 10)
     .attr("height", 10)
     .style("fill", "#adc537");
 
   LegTrans.append("rect")
     .attr("x", -39)
-    .attr("y", 461 + yLegend)
+    .attr("y", 551 + yLegend)
     .attr("width", 10)
     .attr("height", 10)
     .style("fill", "#42b648");
@@ -1092,67 +1094,67 @@ export function initProdKPI() {
 
   LegTrans2.append("rect")
     .attr("x", 40)
-    .attr("y", 463 + yLegend)
+    .attr("y", 551 + yLegend)
     .attr("width", 90)
     .attr("height", barHeight4)
     .style("fill", "#416ba4");
 
   LegTrans2.append("text")
     .attr("x", 26)
-    .attr("y", 487 + yLegend)
+    .attr("y", 577 + yLegend)
     .style("font-style", "italic")
     .style("font-size", 10)
     .text("Worst")
     .append("tspan")
     .attr("x", 22)
-    .attr("y", 499 + yLegend)
+    .attr("y", 589 + yLegend)
     .text("product")
     .append("tspan")
     .attr("x", 19)
-    .attr("y", 511 + yLegend)
+    .attr("y", 601 + yLegend)
     .text("(Overall)");
 
   LegTrans2.append("text")
     .attr("x", 118)
-    .attr("y", 487 + yLegend)
+    .attr("y", 577 + yLegend)
     .style("font-style", "italic")
     .style("font-size", 10)
     .text("Best")
     .append("tspan")
     .attr("x", 110)
-    .attr("y", 499 + yLegend)
+    .attr("y", 589 + yLegend)
     .text("product")
     .append("tspan")
     .attr("x", 107)
-    .attr("y", 511 + yLegend)
+    .attr("y", 601 + yLegend)
     .text("(Overall)");
 
   LegTrans2.append("text")
     .attr("x", 180)
-    .attr("y", 470 + yLegend)
+    .attr("y", 558 + yLegend)
     .style("font-style", "italic")
     .style("font-size", 10)
     .text("= Average of peer group");
 
   LegTrans2.append("line")
     .attr("x1", 177)
-    .attr("y1", 459 + yLegend)
+    .attr("y1", 548 + yLegend)
     .attr("x2", 177)
-    .attr("y2", 474 + yLegend)
+    .attr("y2", 559 + yLegend)
     .style("stroke", "#ffffff")
     .style("stroke-width", 3)
     .attr("width", 2.5);
 
   LegTrans2.append("text")
     .attr("x", 21)
-    .attr("y", 470 + yLegend)
+    .attr("y", 558 + yLegend)
     .style("font-style", "italic")
     .style("font-size", 10)
     .text("1.0");
 
   LegTrans2.append("text")
     .attr("x", 133)
-    .attr("y", 470 + yLegend)
+    .attr("y", 558 + yLegend)
     .style("font-style", "italic")
     .style("font-size", 10)
     .text("10.0");
@@ -1217,7 +1219,7 @@ export function initProdKPI() {
 
     svg3.selectAll("rect.average")
       .attr("x", function(d) {
-        if (d.value ) {
+        if (d.value) {
           var xVal = (respHelp > 580) ? xBar : xBar2;
           var valueAvg = (respHelp > 580) ? (d.value * 10) : xScaleBar(d.value)
           return xVal + valueAvg;

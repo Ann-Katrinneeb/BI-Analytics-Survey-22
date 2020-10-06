@@ -31,47 +31,44 @@
 241,Good
 241,Average
 241,Poor
-241,Very Poor
+241,Very poor
 242,Very good
 242,Good
 242,Average
 242,Poor
-242,Very Poor
+242,Very poor
 240,Very good
 240,Good
 240,Average
 240,Poor
-240,Very Poor
+240,Very poor
 237,Very good
 237,Good
 237,Average
 237,Poor
-237,Very Poor
+237,Very poor
 239,Very good
 239,Good
 239,Average
 239,Poor
-239,Very Poor
+239,Very poor
 238,Very good
 238,Good
 238,Average
 238,Poor
-238,Very Poor
+238,Very poor
 116,Good
-116,Moderate
+116,Average
 116,Poor
 118,Good
-118,Moderate
+118,Average
 118,Poor
 119,Good
-119,Moderate
+119,Average
 119,Poor
 120,Good
-120,Moderate
+120,Average
 120,Poor
-121,Good
-121,Moderate
-121,Poor
 117,Less than 1 month
 117,1 to less than 3 months
 117,3 to less than 6 months
@@ -94,8 +91,7 @@
 123,10 to less than 100 TB
 123,100 to less than 500 TB
 123,More than 500 TB
-122,Before 2010
-122,2010
+122,Before 2011
 122,2011
 122,2012
 122,2013
@@ -105,6 +101,7 @@
 122,2017
 122,2018
 122,2019
+122,2020
 128,Excellent
 128,Good
 128,Satisfactory
@@ -194,6 +191,12 @@
 175,Poor
 175,Very poor
 175,Not used/not available
+176,Excellent
+176,Good
+176,Satisfactory
+176,Poor
+176,Very poor
+176,Not used/not available
 144,High
 144,Moderate
 144,Low

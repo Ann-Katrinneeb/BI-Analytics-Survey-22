@@ -1,159 +1,174 @@
 ﻿Peergroup,Product
 All products,Bissantz
-All products,Board
 All products,CALUMO
 All products,Cubeware
-All products,cubus
+All products,DigDash
+All products,Domo
 All products,Dundas
 All products,Entrinsik
-All products,Exago
-All products,IBM Cognos Analytics
-All products,IBM Planning Analytics
+All products,IBM Cog. Analytics
+All products,IBM Plan. Analytics
 All products,Infor d/EPM
-All products,Information Builders
-All products,Jedox
-All products,Logi Analytics
-All products,Longview Analytics
+All products,InfoZoom
+All products,Logi Analytics 
 All products,Looker
 All products,Microsoft Excel
 All products,Microsoft Power BI
-All products,Microsoft SSRS
 All products,MicroStrategy
-All products,Oracle Analytics Server
+All products,Oracle Analytics Cloud
 All products,Phocas
-All products,Pyramid
+All products,Pyramid 
 All products,Qlik Sense
 All products,QlikView
 All products,Report One
 All products,SAP Analytics Cloud
 All products,SAP BO BI
 All products,SAS Platform
+All products,SAS Visual Analytics
+All products,Serviceware Perf.
 All products,Tableau
 All products,TARGIT
-All products,Yellowfin
 All products,Zoho Analytics
-Large global enterprise BI platforms,IBM Cognos Analytics
-Large global enterprise BI platforms,Information Builders
-Large global enterprise BI platforms,Microsoft SSRS
-Large global enterprise BI platforms,MicroStrategy
-Large global enterprise BI platforms,Oracle Analytics Server
-Large global enterprise BI platforms,SAP BO BI
-Large global enterprise BI platforms,SAS Platform
-Dashboarding-focused products,Board
-Dashboarding-focused products,Cubeware
-Dashboarding-focused products,Dundas
-Dashboarding-focused products,Entrinsik
-Dashboarding-focused products,Exago
-Dashboarding-focused products,Logi Analytics
-Dashboarding-focused products,Longview Analytics
-Dashboarding-focused products,Microsoft Power BI
-Dashboarding-focused products,Phocas
-Dashboarding-focused products,Pyramid
-Dashboarding-focused products,QlikView
-Dashboarding-focused products,Report One
-Dashboarding-focused products,SAP Analytics Cloud
-Dashboarding-focused products,Tableau
-Dashboarding-focused products,TARGIT
-Dashboarding-focused products,Yellowfin
-Dashboarding-focused products,Zoho Analytics
-Ad hoc reporting-focused products,Bissantz
-Ad hoc reporting-focused products,CALUMO
-Ad hoc reporting-focused products,Cubeware
-Ad hoc reporting-focused products,cubus
-Ad hoc reporting-focused products,Dundas
-Ad hoc reporting-focused products,Entrinsik
-Ad hoc reporting-focused products,Exago
-Ad hoc reporting-focused products,IBM Planning Analytics
-Ad hoc reporting-focused products,Infor d/EPM
-Ad hoc reporting-focused products,Jedox
-Ad hoc reporting-focused products,Looker
-Ad hoc reporting-focused products,Microsoft Excel
-Ad hoc reporting-focused products,Phocas
-Ad hoc reporting-focused products,Pyramid
-Ad hoc reporting-focused products,Qlik Sense
-Ad hoc reporting-focused products,Tableau
-Ad hoc reporting-focused products,TARGIT
-Ad hoc reporting-focused products,Yellowfin
-Ad hoc reporting-focused products,Zoho Analytics
-OLAP analysis-focused products,Bissantz
-OLAP analysis-focused products,Board
-OLAP analysis-focused products,CALUMO
-OLAP analysis-focused products,Cubeware
-OLAP analysis-focused products,cubus
-OLAP analysis-focused products,Dundas
-OLAP analysis-focused products,IBM Planning Analytics
-OLAP analysis-focused products,Infor d/EPM
-OLAP analysis-focused products,Jedox
-OLAP analysis-focused products,Microsoft Excel
-OLAP analysis-focused products,Pyramid
-OLAP analysis-focused products,TARGIT
-Self-service analytics-focused products,Dundas
-Self-service analytics-focused products,Entrinsik
-Self-service analytics-focused products,Microsoft Power BI
-Self-service analytics-focused products,Pyramid
-Self-service analytics-focused products,Qlik Sense
-Self-service analytics-focused products,QlikView
-Self-service analytics-focused products,SAP Analytics Cloud
-Self-service analytics-focused products,Tableau
-Self-service analytics-focused products,Yellowfin
-Integrated performance management products,Bissantz
-Integrated performance management products,Board
-Integrated performance management products,CALUMO
-Integrated performance management products,Cubeware
-Integrated performance management products,cubus
-Integrated performance management products,IBM Planning Analytics
-Integrated performance management products,Infor d/EPM
-Integrated performance management products,Jedox
-Integrated performance management products,SAP Analytics Cloud
-Large international BI vendors,IBM Cognos Analytics
-Large international BI vendors,IBM Planning Analytics
-Large international BI vendors,Infor d/EPM
-Large international BI vendors,Information Builders
-Large international BI vendors,Microsoft Excel
-Large international BI vendors,Microsoft Power BI
-Large international BI vendors,Microsoft SSRS
-Large international BI vendors,MicroStrategy
-Large international BI vendors,Oracle Analytics Server
-Large international BI vendors,Qlik Sense
-Large international BI vendors,QlikView
-Large international BI vendors,SAP Analytics Cloud
-Large international BI vendors,SAP BO BI
-Large international BI vendors,SAS Platform
-EMEA-focused vendors,Bissantz
-EMEA-focused vendors,Board
-EMEA-focused vendors,Cubeware
-EMEA-focused vendors,cubus
-EMEA-focused vendors,Jedox
-EMEA-focused vendors,Logi Analytics
-EMEA-focused vendors,Longview Analytics
-EMEA-focused vendors,Looker
-EMEA-focused vendors,Phocas
-EMEA-focused vendors,Pyramid
-EMEA-focused vendors,Report One
-EMEA-focused vendors,TARGIT
-EMEA-focused vendors,Zoho Analytics
-Americas-focused vendors,Board
-Americas-focused vendors,Dundas
-Americas-focused vendors,Entrinsik
-Americas-focused vendors,Exago
-Americas-focused vendors,Jedox
-Americas-focused vendors,Logi Analytics
-Americas-focused vendors,Longview Analytics
-Americas-focused vendors,Looker
-Americas-focused vendors,Phocas
-Americas-focused vendors,Pyramid
-Americas-focused vendors,Yellowfin
-Americas-focused vendors,Zoho Analytics
-Embedded analytics-focused products,Dundas
-Embedded analytics-focused products,Exago
-Embedded analytics-focused products,Information Builders
-Embedded analytics-focused products,Logi Analytics
-Embedded analytics-focused products,Looker
-Embedded analytics-focused products,Microsoft Power BI
-Embedded analytics-focused products,MicroStrategy
-Embedded analytics-focused products,Pyramid
-Embedded analytics-focused products,Qlik Sense
-Embedded analytics-focused products,TARGIT
-Embedded analytics-focused products,Yellowfin
-Embedded analytics-focused products,Zoho Analytics
-Large international BI vendors,Tableau
+Dashboarding-focused Products,Cubeware
+Dashboarding-focused Products,DigDash
+Dashboarding-focused Products,Domo
+Dashboarding-focused Products,Dundas
+Dashboarding-focused Products,Entrinsik
+Dashboarding-focused Products,Logi Analytics 
+Dashboarding-focused Products,Microsoft Power BI
+Dashboarding-focused Products,Phocas
+Dashboarding-focused Products,Pyramid 
+Dashboarding-focused Products,QlikView
+Dashboarding-focused Products,Report One
+Dashboarding-focused Products,SAP Analytics Cloud
+Dashboarding-focused Products,SAS Visual Analytics
+Dashboarding-focused Products,Tableau
+Dashboarding-focused Products,TARGIT
+Dashboarding-focused Products,Zoho Analytics
+Ad Hoc Reporting-focused Products,Bissantz
+Ad Hoc Reporting-focused Products,CALUMO
+Ad Hoc Reporting-focused Products,Cubeware
+Ad Hoc Reporting-focused Products,DigDash
+Ad Hoc Reporting-focused Products,Domo
+Ad Hoc Reporting-focused Products,Dundas
+Ad Hoc Reporting-focused Products,Entrinsik
+Ad Hoc Reporting-focused Products,IBM Plan. Analytics
+Ad Hoc Reporting-focused Products,Infor d/EPM
+Ad Hoc Reporting-focused Products,Looker
+Ad Hoc Reporting-focused Products,Microsoft Excel
+Ad Hoc Reporting-focused Products,Phocas
+Ad Hoc Reporting-focused Products,Pyramid 
+Ad Hoc Reporting-focused Products,Qlik Sense
+Ad Hoc Reporting-focused Products,SAS Visual Analytics
+Ad Hoc Reporting-focused Products,Serviceware Perf.
+Ad Hoc Reporting-focused Products,Tableau
+Ad Hoc Reporting-focused Products,TARGIT
+Ad Hoc Reporting-focused Products,Zoho Analytics
+Self-Service Analytics-focused Products,Dundas
+Self-Service Analytics-focused Products,Entrinsik
+Self-Service Analytics-focused Products,InfoZoom
+Self-Service Analytics-focused Products,Microsoft Power BI
+Self-Service Analytics-focused Products,Pyramid 
+Self-Service Analytics-focused Products,Qlik Sense
+Self-Service Analytics-focused Products,QlikView
+Self-Service Analytics-focused Products,SAP Analytics Cloud
+Self-Service Analytics-focused Products,SAS Visual Analytics
+Self-Service Analytics-focused Products,Tableau
+Integrated Performance Management Products,Bissantz
+Integrated Performance Management Products,CALUMO
+Integrated Performance Management Products,Cubeware
+Integrated Performance Management Products,IBM Plan. Analytics
+Integrated Performance Management Products,Infor d/EPM
+Integrated Performance Management Products,SAP Analytics Cloud
+Integrated Performance Management Products,Serviceware Perf.
+Embedded Analytics-focused Products,Domo
+Embedded Analytics-focused Products,Dundas
+Embedded Analytics-focused Products,Entrinsik
+Embedded Analytics-focused Products,Logi Analytics 
+Embedded Analytics-focused Products,Looker
+Embedded Analytics-focused Products,Microsoft Power BI
+Embedded Analytics-focused Products,MicroStrategy
+Embedded Analytics-focused Products,Pyramid 
+Embedded Analytics-focused Products,Qlik Sense
+Embedded Analytics-focused Products,SAS Visual Analytics
+Embedded Analytics-focused Products,TARGIT
+Embedded Analytics-focused Products,Zoho Analytics
+Business Software Generalists,IBM Cog. Analytics
+Business Software Generalists,IBM Plan. Analytics
+Business Software Generalists,Infor d/EPM
+Business Software Generalists,InfoZoom
+Business Software Generalists,Logi Analytics 
+Business Software Generalists,Looker
+Business Software Generalists,Microsoft Excel
+Business Software Generalists,Microsoft Power BI
+Business Software Generalists,Oracle Analytics Cloud
+Business Software Generalists,SAP Analytics Cloud
+Business Software Generalists,SAP BO BI
+Business Software Generalists,Serviceware Perf.
+Business Software Generalists,Tableau
+Business Software Generalists,Zoho Analytics
+BI & Analytics Specialists,Bissantz
+BI & Analytics Specialists,CALUMO
+BI & Analytics Specialists,Cubeware
+BI & Analytics Specialists,DigDash
+BI & Analytics Specialists,Domo
+BI & Analytics Specialists,Dundas
+BI & Analytics Specialists,Entrinsik
+BI & Analytics Specialists,MicroStrategy
+BI & Analytics Specialists,Phocas
+BI & Analytics Specialists,Pyramid 
+BI & Analytics Specialists,Qlik Sense
+BI & Analytics Specialists,QlikView
+BI & Analytics Specialists,Report One
+BI & Analytics Specialists,SAS Platform
+BI & Analytics Specialists,SAS Visual Analytics
+BI & Analytics Specialists,TARGIT
+Midsize/Departmental Implementations,Bissantz
+Midsize/Departmental Implementations,CALUMO
+Midsize/Departmental Implementations,Cubeware
+Midsize/Departmental Implementations,DigDash
+Midsize/Departmental Implementations,Domo
+Midsize/Departmental Implementations,Dundas
+Midsize/Departmental Implementations,Entrinsik
+Midsize/Departmental Implementations,Infor d/EPM
+Midsize/Departmental Implementations,InfoZoom
+Midsize/Departmental Implementations,Logi Analytics 
+Midsize/Departmental Implementations,Looker
+Midsize/Departmental Implementations,Microsoft Excel
+Midsize/Departmental Implementations,Microsoft Power BI
+Midsize/Departmental Implementations,Phocas
+Midsize/Departmental Implementations,Report One
+Midsize/Departmental Implementations,Serviceware Perf.
+Midsize/Departmental Implementations,TARGIT
+Midsize/Departmental Implementations,Zoho Analytics
+Large/Enterprise-Wide Implementations,IBM Cog. Analytics
+Large/Enterprise-Wide Implementations,IBM Plan. Analytics
+Large/Enterprise-Wide Implementations,MicroStrategy
+Large/Enterprise-Wide Implementations,Oracle Analytics Cloud
+Large/Enterprise-Wide Implementations,Pyramid 
+Large/Enterprise-Wide Implementations,Qlik Sense
+Large/Enterprise-Wide Implementations,QlikView
+Large/Enterprise-Wide Implementations,SAP Analytics Cloud
+Large/Enterprise-Wide Implementations,SAP BO BI
+Large/Enterprise-Wide Implementations,SAS Platform
+Large/Enterprise-Wide Implementations,SAS Visual Analytics
+Large/Enterprise-Wide Implementations,Tableau
+International BI Giants,IBM Cog. Analytics
+International BI Giants,IBM Plan. Analytics
+International BI Giants,Infor d/EPM
+International BI Giants,Microsoft Excel
+International BI Giants,Microsoft Power BI
+International BI Giants,MicroStrategy
+International BI Giants,Oracle Analytics Cloud
+International BI Giants,Qlik Sense
+International BI Giants,QlikView
+International BI Giants,SAP Analytics Cloud
+International BI Giants,SAP BO BI
+International BI Giants,SAS Platform
+International BI Giants,SAS Visual Analytics
+International BI Giants,Tableau
+Largest Enterprise BI & Analytics Platforms,IBM Cog. Analytics
+Largest Enterprise BI & Analytics Platforms,MicroStrategy
+Largest Enterprise BI & Analytics Platforms,Oracle Analytics Cloud
+Largest Enterprise BI & Analytics Platforms,SAP BO BI
+Largest Enterprise BI & Analytics Platforms,SAS Platform

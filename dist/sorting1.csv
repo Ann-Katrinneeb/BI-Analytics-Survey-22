@@ -37,6 +37,11 @@
 242,Average
 242,Poor
 242,Very poor
+243,Very good
+243,Good
+243,Average
+243,Poor
+243,Very poor
 240,Very good
 240,Good
 240,Average
@@ -91,8 +96,7 @@
 123,10 to less than 100 TB
 123,100 to less than 500 TB
 123,More than 500 TB
-122,Before 2011
-122,2011
+122,Before 2012
 122,2012
 122,2013
 122,2014
@@ -102,6 +106,7 @@
 122,2018
 122,2019
 122,2020
+122,2021
 128,Excellent
 128,Good
 128,Satisfactory
@@ -121,6 +126,11 @@
 130,Maybe
 130,Probably not
 130,Definitely not
+166,Very satisfied
+166,Somewhat satisfied
+166,Neither satisfied nor dissatisfied
+166,Somewhat dissatisfied
+166,Very dissatisfied
 133,Excellent
 133,Good
 133,Satisfactory
@@ -197,6 +207,12 @@
 176,Poor
 176,Very poor
 176,Not used/not available
+177,Excellent
+177,Good
+177,Satisfactory
+177,Poor
+177,Very poor
+177,Not used/not available
 144,High
 144,Moderate
 144,Low

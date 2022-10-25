@@ -96,8 +96,7 @@
 123,10 to less than 100 TB
 123,100 to less than 500 TB
 123,More than 500 TB
-122,Before 2012
-122,2012
+122,Before 2013
 122,2013
 122,2014
 122,2015
@@ -107,6 +106,7 @@
 122,2019
 122,2020
 122,2021
+122,2022
 128,Excellent
 128,Good
 128,Satisfactory

@@ -379,7 +379,7 @@ export function initProdKPI() {
       if (d.Product == product) {
         if (d.Rank == 1) {
           return "#42b648";
-        } else if ((d.Rank - 1) / (d.counter - 1) <= 0.3) {
+        } else if ((d.Rank - 1) / (d.counter - 1) < 0.3) {
           return "#adc537";
         } else if (d.Rank / d.counter == 1) {
           return "#f2686f";
@@ -530,7 +530,7 @@ export function initProdKPI() {
           if (d.Product == updateProduct) {
             if (d.Rank == 1) {
               return "#42b648";
-            } else if ((d.Rank - 1) / (d.counter - 1) <= 0.3) {
+            } else if ((d.Rank - 1) / (d.counter - 1) < 0.3) {
               return "#adc537";
             } else if (d.Rank / d.counter == 1) {
               return "#f2686f";
@@ -791,7 +791,7 @@ export function initProdKPI() {
           if (d.Product == productDummy) {
             if (d.Rank == 1) {
               return "#42b648";
-            } else if ((d.Rank - 1) / (d.counter - 1) <= 0.3) {
+            } else if ((d.Rank - 1) / (d.counter - 1) < 0.3) {
               return "#adc537";
             } else if (d.Rank / d.counter == 1) {
               return "#f2686f";
@@ -914,11 +914,11 @@ export function initProdKPI() {
     .attr("x1", -xLine)
     .attr("y1", LineGroupBegin2)
     .attr("x2", -xLine)
-    .attr("y2", LineGroupBegin2 + 11 + (5 * SpaceLine))
+    .attr("y2", LineGroupBegin2 + 11 + (3 * SpaceLine))
     .attr("stroke", "white")
     .attr("stroke-width", "1");
 
-  for (count1 = 0; count1 < 6; count1++) {
+  for (count1 = 0; count1 < 4; count1++) {
 
     svg3.append("line")
       .attr("class", "head")
@@ -934,7 +934,7 @@ export function initProdKPI() {
   // KPI Group 4 Lines
 
   var count2 = 0;
-  var LineGroupBegin3 = 770;
+  var LineGroupBegin3 = 725;
 
 
   svg3.append("line")
@@ -962,7 +962,7 @@ export function initProdKPI() {
   // KPI Group 5 Lines
 
   var count3 = 0;
-  var LineGroupBegin4 = 410;
+  var LineGroupBegin4 = 365;
 
   svg3.append("line")
     .attr("class", "head")
@@ -989,7 +989,7 @@ export function initProdKPI() {
   // KPI Group 6 Lines
 
   var count4 = 0;
-  var LineGroupBegin6 = 567;
+  var LineGroupBegin6 = 522;
 
   svg3.append("line")
     .attr("class", "head")

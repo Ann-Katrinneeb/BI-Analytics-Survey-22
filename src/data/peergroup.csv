@@ -1,107 +1,105 @@
-﻿Peergroup,Product
+Peergroup,Product
 All products,Bissantz
+All products,DigDash
 All products,Domo
-All products,Dundas
 All products,Entrinsik
-All products,IBM Cog. Analytics
-All products,IBM Plan. Analytics
+All products,IBM Cognos Analytics
+All products,IBM Planning Analytics
 All products,InfoZoom
-All products,Logi Analytics
-All products,Looker
 All products,Microsoft Excel
 All products,Microsoft Power BI
-All products,MicroStrategy
+All products,MicroStrategy ONE
+All products,MyReport
 All products,Oracle Analytics Cloud
-All products,Phocas
 All products,Pyramid
 All products,Qlik Sense
 All products,QlikView
-All products,Report One
 All products,SAP Analytics Cloud
 All products,SAP BO BI
-All products,Serviceware Perf.
+All products,Suadeo
 All products,Tableau
 All products,TARGIT
 All products,Zoho Analytics
-Report & Dashboard Focus,Domo
-Report & Dashboard Focus,Dundas
-Report & Dashboard Focus,Entrinsik
-Report & Dashboard Focus,IBM Cog. Analytics
-Report & Dashboard Focus,Logi Analytics
-Report & Dashboard Focus,Looker
-Report & Dashboard Focus,Microsoft Power BI
-Report & Dashboard Focus,MicroStrategy
-Report & Dashboard Focus,Oracle Analytics Cloud
-Report & Dashboard Focus,Phocas
-Report & Dashboard Focus,Pyramid
-Report & Dashboard Focus,QlikView
-Report & Dashboard Focus,Report One
-Report & Dashboard Focus,SAP Analytics Cloud
-Report & Dashboard Focus,SAP BO BI
-Report & Dashboard Focus,TARGIT
-Report & Dashboard Focus,Zoho Analytics
-Analysis Focus,Bissantz
-Analysis Focus,IBM Plan. Analytics
-Analysis Focus,InfoZoom
-Analysis Focus,Microsoft Excel
-Analysis Focus,Qlik Sense
-Analysis Focus,Serviceware Perf.
-Analysis Focus,Tableau
+Embedded Analytics Focus,DigDash
 Embedded Analytics Focus,Domo
-Embedded Analytics Focus,Dundas
 Embedded Analytics Focus,Entrinsik
-Embedded Analytics Focus,IBM Cog. Analytics
-Embedded Analytics Focus,Logi Analytics
-Embedded Analytics Focus,Looker
+Embedded Analytics Focus,IBM Cognos Analytics
 Embedded Analytics Focus,Microsoft Power BI
-Embedded Analytics Focus,MicroStrategy
+Embedded Analytics Focus,MicroStrategy ONE
 Embedded Analytics Focus,Oracle Analytics Cloud
 Embedded Analytics Focus,Pyramid
 Embedded Analytics Focus,Qlik Sense
 Embedded Analytics Focus,Tableau
 Embedded Analytics Focus,TARGIT
 Embedded Analytics Focus,Zoho Analytics
-Business Software Generalists,IBM Cog. Analytics
-Business Software Generalists,IBM Plan. Analytics
+Report & Dashboard Focus,Bissantz
+Report & Dashboard Focus,DigDash
+Report & Dashboard Focus,Domo
+Report & Dashboard Focus,Entrinsik
+Report & Dashboard Focus,IBM Cognos Analytics
+Report & Dashboard Focus,Microsoft Power BI
+Report & Dashboard Focus,MicroStrategy ONE
+Report & Dashboard Focus,MyReport
+Report & Dashboard Focus,Oracle Analytics Cloud
+Report & Dashboard Focus,Pyramid
+Report & Dashboard Focus,Qlik Sense
+Report & Dashboard Focus,QlikView
+Report & Dashboard Focus,SAP Analytics Cloud
+Report & Dashboard Focus,SAP BO BI
+Report & Dashboard Focus,Suadeo
+Report & Dashboard Focus,Tableau
+Report & Dashboard Focus,TARGIT
+Report & Dashboard Focus,Zoho Analytics
+Analysis Focus,Bissantz
+Analysis Focus,Domo
+Analysis Focus,IBM Cognos Analytics
+Analysis Focus,IBM Planning Analytics
+Analysis Focus,InfoZoom
+Analysis Focus,Microsoft Excel
+Analysis Focus,MicroStrategy ONE
+Analysis Focus,Oracle Analytics Cloud
+Analysis Focus,Pyramid
+Analysis Focus,Qlik Sense
+Analysis Focus,SAP BO BI
+Analysis Focus,Suadeo
+Analysis Focus,Tableau
+Analysis Focus,TARGIT
+Analysis Focus,Zoho Analytics
+Business Software Generalists,IBM Cognos Analytics
+Business Software Generalists,IBM Planning Analytics
 Business Software Generalists,InfoZoom
-Business Software Generalists,Logi Analytics
-Business Software Generalists,Looker
 Business Software Generalists,Microsoft Excel
 Business Software Generalists,Microsoft Power BI
 Business Software Generalists,Oracle Analytics Cloud
 Business Software Generalists,SAP Analytics Cloud
 Business Software Generalists,SAP BO BI
-Business Software Generalists,Serviceware Perf.
 Business Software Generalists,Tableau
 Business Software Generalists,Zoho Analytics
 BI & Analytics Specialists,Bissantz
+BI & Analytics Specialists,DigDash
 BI & Analytics Specialists,Domo
-BI & Analytics Specialists,Dundas
 BI & Analytics Specialists,Entrinsik
-BI & Analytics Specialists,MicroStrategy
-BI & Analytics Specialists,Phocas
+BI & Analytics Specialists,MicroStrategy ONE
+BI & Analytics Specialists,MyReport
 BI & Analytics Specialists,Pyramid
 BI & Analytics Specialists,Qlik Sense
 BI & Analytics Specialists,QlikView
-BI & Analytics Specialists,Report One
+BI & Analytics Specialists,Suadeo
 BI & Analytics Specialists,TARGIT
 Midsize/Departmental Implementations,Bissantz
+Midsize/Departmental Implementations,DigDash
 Midsize/Departmental Implementations,Domo
-Midsize/Departmental Implementations,Dundas
 Midsize/Departmental Implementations,Entrinsik
 Midsize/Departmental Implementations,InfoZoom
-Midsize/Departmental Implementations,Logi Analytics
-Midsize/Departmental Implementations,Looker
 Midsize/Departmental Implementations,Microsoft Excel
 Midsize/Departmental Implementations,Microsoft Power BI
-Midsize/Departmental Implementations,Phocas
-Midsize/Departmental Implementations,Report One
-Midsize/Departmental Implementations,Serviceware Perf.
+Midsize/Departmental Implementations,MyReport
+Midsize/Departmental Implementations,Suadeo
 Midsize/Departmental Implementations,TARGIT
 Midsize/Departmental Implementations,Zoho Analytics
-Large/Enterprise-Wide Implementations,IBM Cog. Analytics
-Large/Enterprise-Wide Implementations,IBM Plan. Analytics
-Large/Enterprise-Wide Implementations,MicroStrategy
+Large/Enterprise-Wide Implementations,IBM Cognos Analytics
+Large/Enterprise-Wide Implementations,IBM Planning Analytics
+Large/Enterprise-Wide Implementations,MicroStrategy ONE
 Large/Enterprise-Wide Implementations,Oracle Analytics Cloud
 Large/Enterprise-Wide Implementations,Pyramid
 Large/Enterprise-Wide Implementations,Qlik Sense
@@ -109,12 +107,11 @@ Large/Enterprise-Wide Implementations,QlikView
 Large/Enterprise-Wide Implementations,SAP Analytics Cloud
 Large/Enterprise-Wide Implementations,SAP BO BI
 Large/Enterprise-Wide Implementations,Tableau
-International BI Giants,IBM Cog. Analytics
-International BI Giants,IBM Plan. Analytics
-International BI Giants,Looker
+International BI Giants,IBM Cognos Analytics
+International BI Giants,IBM Planning Analytics
 International BI Giants,Microsoft Excel
 International BI Giants,Microsoft Power BI
-International BI Giants,MicroStrategy
+International BI Giants,MicroStrategy ONE
 International BI Giants,Oracle Analytics Cloud
 International BI Giants,Qlik Sense
 International BI Giants,QlikView

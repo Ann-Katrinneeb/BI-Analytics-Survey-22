@@ -28,6 +28,7 @@
 118,How do you rate the level of completion within the budget originally specified?
 119,How do you rate the level of completion within the timeframe originally specified?
 120,How do you rate the level of satisfaction with the implementation of the technical aspects?
+190,How do you rate the level of satisfaction with the staff assigned?
 122,When did your company start using the product?
 123,What is the amount of data in the databases used with your product?
 127,Please indicate the front-end products you use with SAP BW?
@@ -39,20 +40,26 @@
 132,What are the most serious problems you have encountered in using the product?
 133,How do you rate the support provided by the implementer?
 134,How do you rate the support provided by the vendor?
-137,Do you use or plan to use the application for ad hoc query and reporting?
 138,Do you use or plan to use the application for advanced analytics?
 139,Do you use or plan to use the application for analysis?
 140,"Do you use or plan to use the application for planning, budgeting and forecasting?"
 141,Do you use or plan to use the application for dashboards/BI applications?
 142,Do you use or plan to use the application for financial consolidation?
-143,Do you use or plan to use the application for standard/enterprise reporting?
-171,How would you rate the capabilities of your BI & analytics product for creating dashboards?
-172,How would you rate the capabilities of your BI & analytics product for the distribution of reports?
-173,How would you rate the capabilities of your BI & analytics product for performing analyses?
+143,Do you use or plan to use the application for reporting?
+171,How would you rate the capabilities of your BI & analytics product for creating dashboards/reports?
+172,How would you rate the capabilities of your BI & analytics product for the distribution of content such as reports and dashboards?
 174,"How would you rate the capabilities of your BI & analytics product for planning, budgeting and forecasting?"
-175,How would you rate the capabilities of your BI & analytics product for the support of ad hoc queries?
+175,How would you rate the capabilities of your BI & analytics product to create ad hoc queries / perform analyses?
 176,How would you rate the capabilities of your BI & analytics product for advanced & predictive analytics?
 177,How would you rate the capabilities of your BI & analytics product for data preparation?
+178,How would you rate the capabilities of your BI & analytics product for viewing reports and navigating dashboards?
+179,How would you rate the ease of use of your BI & analytics product for content creators?
+180,How would you rate the ease of use of your BI & analytics product for content consumers?
+181,How would you rate the ease of use of your BI & analytics product for data modeling and preparation?
+182,How would you rate the flexibility of your BI & analytics product for adapting the software?
+183,How would you rate the flexibility of your BI & analytics product for content creation?
+184,How would you rate the flexibility of your BI & analytics product for data modeling and connectivity?
+185,How would you rate the capabilities of your BI & analytics product for mobile BI?
 144,"To what extent has the accuracy of your reporting, analysis or planning improved?"
 145,To what extent do you now make better business decisions through better analysis?
 146,To what extent has your competitive advantage increased?
@@ -66,10 +73,6 @@
 154,To what extent has your operational efficiency improved?
 155,Does your company use your BI & analytics tool with real-time data?
 156,Does your company use cloud BI with your BI & analytics tool?
-159,Does your company use your BI & analytics tool for data preparation?
 160,Does your company use your BI & analytics tool for embedded BI?
-161,Does your company use a mobile BI product?
-162,Does your company use self-service BI and analytics with your BI & analytics tool?
-163,Does your company use your BI & analytics tool for spatial/location analysis?
 164,Does your company use your BI & analytics tool for visual analysis?
-165,Does your company use your BI & analytics tool for visual design standards?
+165,Does your company use your BI & analytics tool for intelligent insights?
